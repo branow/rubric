@@ -1,7 +1,7 @@
 {
   "name": "engineering",
-  "description": "Opinionated engineering conventions as role-based skills: developer, QA, security, release.",
-  "version": "0.1.0",
+  "description": "Opinionated engineering conventions as role-based skills: lead, developer, QA, security, release.",
+  "version": "0.2.0",
   "author": {
     "name": "branow",
     "email": "branow.code@gmail.com"
