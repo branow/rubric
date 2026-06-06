@@ -1,0 +1,19 @@
+{
+  "name": "engineering",
+  "description": "Opinionated engineering conventions as role-based skills: developer, QA, security, release.",
+  "version": "0.1.0",
+  "author": {
+    "name": "branow",
+    "email": "branow.code@gmail.com"
+  },
+  "homepage": "https://github.com/branow/rubric",
+  "repository": "https://github.com/branow/rubric",
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "conventions",
+    "code-quality",
+    "skills",
+    "engineering"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "rubric",
+  "description": "branow's personal marketplace of opinionated development conventions for Claude Code.",
+  "owner": {
+    "name": "branow",
+    "email": "branow.code@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "engineering",
+      "description": "Opinionated engineering conventions as role-based skills: developer, QA, security, release.",
+      "version": "0.1.0",
+      "source": "./engineering",
+      "author": {
+        "name": "branow",
+        "email": "branow.code@gmail.com"
+      }
+    }
+  ]
+}
