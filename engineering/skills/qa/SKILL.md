@@ -1,6 +1,6 @@
 ---
 name: qa
-description: Use when deciding what and how to test — choosing test types, writing tests, and judging coverage. The QA role's rules.
+description: Use for any task involving tests or testing in any language — what to test, choosing test types, writing or fixing tests, and judging coverage. The QA role's rules.
 user-invocable: false
 ---
 

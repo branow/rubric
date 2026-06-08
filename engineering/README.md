@@ -13,3 +13,7 @@ Each skill is a role on the team. An agent acting in a role loads that role's ru
 - **release** — version control, commits, CI/CD, deployment, observability, licensing.
 
 Rules are firm where they target common mistakes and light where the right call is situational.
+
+## License
+
+[MIT](../LICENSE)
