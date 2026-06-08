@@ -15,6 +15,16 @@
         "name": "branow",
         "email": "branow.code@gmail.com"
       }
+    },
+    {
+      "name": "blueprint",
+      "description": "Co-author concise, decision-dense design specs with Claude — one abstraction at a time, through dialogue.",
+      "version": "0.1.0",
+      "source": "./blueprint",
+      "author": {
+        "name": "branow",
+        "email": "branow.code@gmail.com"
+      }
     }
   ]
 }
