@@ -1,0 +1,19 @@
+{
+  "name": "blueprint",
+  "description": "Co-author concise, decision-dense design specs with Claude — one abstraction at a time, through dialogue.",
+  "version": "0.1.0",
+  "author": {
+    "name": "branow",
+    "email": "branow.code@gmail.com"
+  },
+  "homepage": "https://github.com/branow/rubric",
+  "repository": "https://github.com/branow/rubric",
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "design",
+    "specification",
+    "architecture",
+    "skills"
+  ]
+}
