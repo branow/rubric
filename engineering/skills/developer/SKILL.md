@@ -1,6 +1,6 @@
 ---
 name: developer
-description: Use when writing or structuring application code — architecture, repository layout, types, errors, state, persistence, APIs, dependencies, and config. The developer role's rules.
+description: Use for any task that writes, modifies, refactors, or structures code in any language — how to shape architecture and layering, repo/file layout, naming, types, errors, state, persistence, APIs, dependencies, and config. The developer role's rules.
 user-invocable: false
 ---
 
